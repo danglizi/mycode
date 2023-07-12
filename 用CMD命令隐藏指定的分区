@@ -1,0 +1,4 @@
+diskpart //磁盘分区
+list volume   //磁盘分区列表
+select volume=5（“5”代表需要隐藏的序号）
+remove letter=E（“E”代表需要隐藏的盘符）
