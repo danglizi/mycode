@@ -1,0 +1,3 @@
+<svg class="icon-ali" aria-hidden="true"><use xlink:href="#b2font-Other"></use></svg>知识小铺<small class="b2small info-shop">New</small>
+<svg class="icon-ali" aria-hidden="true"><use xlink:href="#b2font-Grasshopper"></use></svg>草蜢小店<small class="b2small vip-shop">New</small>
+<svg class="icon-ali" aria-hidden="true"><use xlink:href="#b2font-wenhao"></use></svg>提问课堂<small class="b2small info-shop">内测</small>
